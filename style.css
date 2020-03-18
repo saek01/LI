@@ -11,10 +11,20 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
+.container{
+    display:flex;
+
+}
+
 .logo{
     font-size: large;
     font-weight: 200;
-    background-color: aqua;
+    background-color: rgb(3, 48, 85);
+    color: thistle;
+}
+
+nav{
+background-color: teal;
 }
 
 nav li{
